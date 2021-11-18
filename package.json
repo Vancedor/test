@@ -13,6 +13,7 @@
     "license": "ISC",
     "dependencies": {
         "animate.css": "^4.1.1",
+        "gh-pages": "^3.2.3",
         "next": "^11.0.1",
         "next-videos": "^1.4.0",
         "react": "^17.0.2",
